@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">materi_intent</string>
+    <string name="move_activity">move_activity</string>
+    <string name="data_received">data_received</string>
+    <string name="object_received">object_received</string>
+    <string name="move_with_object">move_with_object</string>
+    <string name="halaman_move_activity">halaman_move_activity</string>
+    <string name="move_with_data">move_with_data</string>
+</resources>
